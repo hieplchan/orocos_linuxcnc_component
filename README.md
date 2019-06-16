@@ -1,5 +1,6 @@
 # Embedded Orocos KDL for 7DOF Robot Arm to LinuxCNC.
 [Tutorial](https://docs.google.com/document/d/1HmaCXo7cQKbaq5FXnTHC77tiFhEHRa87daxEM2d-yVU/edit)  
+[LinuxCNC docs](https://drive.google.com/drive/folders/1QLx-lqMe4q_WDD71D9H68M1SFT1xQL6D?usp=sharing)  
 
 - Moment testing of 1 TransZ link + 1 RotX link:
 ```
